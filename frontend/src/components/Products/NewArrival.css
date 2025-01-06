@@ -1,0 +1,26 @@
+:root{
+    --dark-color:#3074F0;
+    --primary-color:#F7c9d2;
+    --light-color:#f5f5f5;
+    --success-color:#8f9295;
+
+}
+.NewArrival_col1{
+    background: var(--light-color);
+    padding: 2rem;
+}
+
+
+.Arrivals_col1{
+    margin-left: 2rem;
+}
+.Arrivals_col1 img{
+    background: var(--light-color);
+}
+.Arrivals_main{
+    border: 1px solid #dcdcdc;
+    margin: 0.6rem;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 1rem 0;
+}

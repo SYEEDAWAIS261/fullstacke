@@ -1,0 +1,14 @@
+:root{
+    --dark-color:#3074F0;
+    --primary-color:#F7c9d2;
+    --light-color:#f5f5f5;
+    --success-color:#8f9295;
+
+}
+
+.Discount{
+    background: var(--primary-color);
+}
+.Discount_col1 p{
+    color: #242323e0;    
+}

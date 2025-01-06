@@ -1,0 +1,43 @@
+:root{
+    --dark-color:#3074F0;
+    --primary-color:#F7c9d2;
+    --light-color:#f5f5f5;
+    --success-color:#8f9295;
+
+}
+
+.banner_col1 h1{
+    font-size: 2.9rem;
+    font-weight: 610;
+}
+.main_btn{
+    padding: 0.7rem 1.7rem;
+    border: 0;
+    background-color: var(--dark-color);
+    color: #fff;
+    border: 2px solid transparent;
+    border-radius: 0.5vh;
+    
+}
+.main_btn:hover{
+    transition: 0.3s ease-in-out;
+    background-color: var(--light-color);
+    color: #000;
+    border: 2px solid var(--dark-color);
+    transform: scale(1.005);
+    box-shadow: 1px 6px 10px -1px rgb(116, 116, 166);
+
+}
+
+.Main_label i{
+    padding: 0.3rem;
+    border-radius: 100%;
+    background:#ff3971d5;
+    color: #fff; 
+    font-size: 0.7rem;
+    margin-right: 0.3rem;
+}
+.Main_label{
+    color:#ff3971d5;
+    font-weight: 450    ;
+}
